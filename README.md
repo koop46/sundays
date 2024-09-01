@@ -1,5 +1,5 @@
 # sundays
 
-### Exercises
-### Resources
-### Other
+### - Exercises
+### - Resources
+### - Other
